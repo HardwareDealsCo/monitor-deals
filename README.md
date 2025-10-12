@@ -1,6 +1,6 @@
 # Monitor Deals Dataset (2025)
 
-This repository contains an **open dataset of computer monitor deals**, updated daily to track pricing trends, specs, and value metrics such as **$/inch**, **$/MP**, and refresh rate comparisons.  
+This repository contains an **open dataset of computer monitor deals**, updated daily to track pricing trends, specs, and refresh rate comparisons.  
 It covers top brands — **Dell, LG, Samsung, ASUS, Acer, BenQ, and MSI** — across categories like gaming, productivity, and ultrawide displays.
 
 👉 Full monitor deal tables and live data: [hardwaredeals.co/monitor](https://hardwaredeals.co/monitor/)
@@ -21,7 +21,7 @@ From **4K monitor buying guides** to **GPU and SSD deal aggregations**, Hardware
 
 ## Usage
 - Data is provided in JSON format.  
-- Each entry includes brand, size, resolution, refresh rate, panel type, price, and normalized metrics (`$/inch`, `$/MP`, etc.).  
+- Each entry includes brand, size, resolution, refresh rate, panel type and price.  
 - Use this dataset for **market analysis, price tracking, trend visualization**, or as input for your own comparison tools and dashboards.
 
 ---
